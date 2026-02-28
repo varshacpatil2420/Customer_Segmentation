@@ -1,6 +1,6 @@
 # 🛍 Customer Segmentation using K-Means Clustering (Streamlit App)
 
-## 📌 Project Overview
+## Project Overview
 
 This project implements **Customer Segmentation using K-Means Clustering** to help a retail business improve marketing targeting efficiency.  
 
@@ -10,7 +10,7 @@ The solution is deployed as an interactive **Streamlit web application**.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Retail companies often run generic marketing campaigns, resulting in low conversion rates.
 
@@ -21,7 +21,7 @@ Retail companies often run generic marketing campaigns, resulting in low convers
 
 ---
 
-## 💡 Solution Approach
+## Solution Approach
 
 1. Data Cleaning & Preprocessing  
 2. Feature Selection (Income & Spending Score)  
@@ -33,7 +33,7 @@ Retail companies often run generic marketing campaigns, resulting in low convers
 
 ---
 
-## 📊 Business Impact
+## Business Impact
 
 - Identified 5 customer segments
 - Enabled targeted marketing campaigns
@@ -42,7 +42,7 @@ Retail companies often run generic marketing campaigns, resulting in low convers
 
 ---
 
-## 🧠 Machine Learning Details
+## Machine Learning Details
 
 - Algorithm: K-Means Clustering
 - Features Used:
@@ -55,7 +55,7 @@ Retail companies often run generic marketing campaigns, resulting in low convers
 
 ---
 
-## 🖥 Streamlit Web Application Features
+## Streamlit Web Application Features
 
 - Dynamic cluster selection (K value slider)
 - Interactive cluster visualization
@@ -65,7 +65,7 @@ Retail companies often run generic marketing campaigns, resulting in low convers
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas

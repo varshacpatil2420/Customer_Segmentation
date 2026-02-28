@@ -77,4 +77,4 @@ Retail companies often run generic marketing campaigns, resulting in low convers
 
 ---
 
-## 📁 Project Structure
+## Project Structure

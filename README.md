@@ -76,5 +76,3 @@ Retail companies often run generic marketing campaigns, resulting in low convers
 - Streamlit
 
 ---
-
-## Project Structure
